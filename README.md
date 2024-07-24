@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align = "left">
 <img src="https://img.shields.io/github/followers/AnuragDawar10?label=Followers&style=social" alt= "GitHub Followers">
-<img src="https://img.shields.io/github/stars/AnuragDawar10?affiliations=OWNER%2CCOLLABORATOR&style=social" alt = "Anurag Dawar's stars"></br>
+<img src="https://img.shields.io/github/stars/AnuragDawar10&style=social" alt = "Anurag Dawar's stars"></br>
 <img src="https://github-readme-stats.vercel.app/api?username=AnuragDawar10&show_icons=true&theme=flag-india" alt = "Anurag Dawar's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDawar10&layout=compact&show_icons=true&theme=flag-india" alt = "Most used Languages">
 </div>
